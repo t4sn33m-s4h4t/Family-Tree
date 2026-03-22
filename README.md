@@ -30,7 +30,7 @@ A full-featured family tree web application built with React, Firebase, and Clou
 - Line chart showing birthdays per month
 - Zodiac sign for each person
 
-### 💍 Marriage Queue (বিয়ের সিরিয়াল)
+### 💍 Marriage Queue 
 - Lists all unmarried, living family members above 18
 - Sorted by age (oldest first)
 - Separate Male and Female sections
